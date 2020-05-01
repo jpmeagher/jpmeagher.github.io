@@ -1,3 +1,3 @@
 # jpmeagher.github.io
 
-This is my homepage
+My personal website.
